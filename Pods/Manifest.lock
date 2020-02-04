@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (4.9.1)
+  - FeedKit (9.0.0)
+  - LBTATools (1.0.12)
+  - SDWebImage (5.4.3):
+    - SDWebImage/Core (= 5.4.3)
+  - SDWebImage/Core (5.4.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.9.1)
+  - FeedKit (~> 9.0)
+  - LBTATools
+  - SDWebImage (~> 5.4.1)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - FeedKit
+    - LBTATools
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  FeedKit: 9ffa2434af293df73ac069129900498b3f89cb2e
+  LBTATools: 389a901a01b9a56bea5682c40cd6e23530f40015
+  SDWebImage: a7c50c8647259e297447558335df97880905a25e
+
+PODFILE CHECKSUM: fa43885b8381715473e92b9d9f3c4fe2dc975824
+
+COCOAPODS: 1.8.4
